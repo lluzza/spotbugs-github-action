@@ -1,4 +1,4 @@
-import * as core from '@actions/core'
+import * as core from '@actions/core' 
 import {BugPattern, FindbugsResult, SourceLine} from './spotbugs'
 import parser from 'fast-xml-parser'
 import fs from 'fs'
